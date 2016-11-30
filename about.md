@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently looking for a job as a Javascript developer.
 
-### More Information
+### Technologies I have Used
 
-A place to include any other types of information that you'd like to include about yourself.
+Javascript, node.js, React.js, HTML, CSS and Git
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sean.cox@mac.com](mailto:sean.cox@mac.com)
